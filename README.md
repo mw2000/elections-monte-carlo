@@ -1,0 +1,2 @@
+# Monte Carlo experiments
+I was interested in exploring Monte Carlo experiments for multiple scenarios and implementing some of these in Bend to understand the Language better. Currently we've implemented a two dice monte carlo experiement in python and bend.
